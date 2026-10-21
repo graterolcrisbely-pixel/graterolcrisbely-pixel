@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="assets/banner.png" alt="Banner personal de Crisbely María Graterol" width="100%">
+</p>
+
+
  
 <h1 align="center"> ✨ CRISBELY MARÍA GRATEROL ✨ </h1>
 
